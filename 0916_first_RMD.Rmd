@@ -2,7 +2,7 @@
 title: "Simple document"
 author: Qihang Wu
 date: 2021-09-16
-output: html_document
+output: github_document
 ---
 
 ```{r}
